@@ -1882,6 +1882,10 @@ body {
   background-color: #2CA8FF !important;
 }
 
+.bg-darkgreen{
+  background-color: #044100 !important;
+}
+
 .bg-success {
   background-color: #18ce0f !important;
 }
@@ -4951,7 +4955,7 @@ img {
 }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
+  padding-top: 5px;
   padding-right: 0;
   text-align: center;
   color: #fff;
